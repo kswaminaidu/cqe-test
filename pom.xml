@@ -3,6 +3,6 @@
   <groupId>com.servicenow</groupId>
   <artifactId>sampleTest</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>sampleTest</name>
-  <description>sampleTest</description>
+  <name>sample</name>
+  <description>sample</description>
 </project>
